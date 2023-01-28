@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/Freemiium" title="Dollow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Freemiium/File-To-Link)
 
 
 🚀Features<p>
